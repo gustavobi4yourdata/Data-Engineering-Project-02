@@ -14,7 +14,7 @@
 3. Abra o UniServer Zero XIII e clique em "Start MySQL"
 4. Abra o HeidiSQL e insira uma senha
 5. Crie uma nova aba para consulta com (Ctrl + T)
-6. Copie e cole o comando DDL_north.sql e execute com F9
+6. Copie e cole o comando "DDL_north.sql" e execute com F9
 6. No HeidiSQL clique com o botão direito do mouse sobre o "MySQL" e selecione "Atualizar". Pronto, o banco de dados de produção "north" foi criado.
 7. Crie o banco de dados para "stg" (Stage Area) e "dw" (Data Warehouse)
 
