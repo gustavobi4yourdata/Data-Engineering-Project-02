@@ -31,7 +31,7 @@
 8. No Pentaho, abra a transformação e navegue até a pasta jobs e clique em "job_principal"
 9. Com o F9 execute o "job_principal" e clique em "run"
 10. Pronto !!! Data Warehouse implementado com sucesso. 
-11. Abra o HeidiSQL e execute novas queries e faça análises análises.
+11. Abra o HeidiSQL e execute novas queries e faça análises.
 
 
 
