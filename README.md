@@ -25,9 +25,9 @@
 3. Com o Pentaho aberto no canto superior a direita, clique em "Connect"
 4. Crie o repositório do seu projeto com o nome "pentaho-project-02"
 5. Cole o arquivo do GitHub "repository_project_02" na pasta "pentaho-project-02"
-5. Vá em Tools >> Repository >> Import Repository e abra o arquivo "pentaho-project-02"
+5. Vá em Tools >> Repository >> Import Repository e abra o arquivo "repository_project_02"
 6. Pronto ! Todos os Jobs e Transformações foram importadas para dentro repositório do projeto 
-7. Crie as conexões com o bando de dados de stg e dw 
+7. No Pentaho, crie as conexões com o bando de dados de "stg" e "dw" 
 8. No Pentaho, abra a transformação e navegue até a pasta jobs e clique em "job_principal"
 9. Com o F9 execute o "job_principal" e clique em "run"
 10. Pronto !!! Data Warehouse implementado com sucesso. 
